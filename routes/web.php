@@ -19,3 +19,7 @@ foreach ($pages as $name => $uri) {
         ->defaults('page', $name)
         ->name($name);
 }
+
+Route::fallback(function () {
+    return redirect()->route('home');
+});
