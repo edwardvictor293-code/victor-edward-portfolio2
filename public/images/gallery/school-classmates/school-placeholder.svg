@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" fill="none">
+    <defs>
+        <linearGradient id="school-bg" x1="56" y1="48" x2="744" y2="916" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#24443A"/>
+            <stop offset="1" stop-color="#07110F"/>
+        </linearGradient>
+        <radialGradient id="school-glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 520 -440 0 400 350)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C5A46D" stop-opacity=".2"/>
+            <stop offset="1" stop-color="#C5A46D" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <title>School and classmates photograph placeholder</title>
+    <rect width="800" height="960" fill="url(#school-bg)"/>
+    <rect width="800" height="960" fill="url(#school-glow)"/>
+    <rect x="34" y="34" width="732" height="892" rx="3" stroke="#EAE6DC" stroke-opacity=".22"/>
+    <path d="M206 282h388v286H206V282Z" stroke="#C5A46D" stroke-opacity=".56" stroke-width="2"/>
+    <path d="M254 338h292M254 378h220M254 418h264" stroke="#EAE6DC" stroke-opacity=".34" stroke-width="2"/>
+    <path d="M174 616h452M218 638h364" stroke="#C5A46D" stroke-opacity=".4"/>
+    <text x="400" y="716" fill="#EAE6DC" fill-opacity=".76" font-family="Georgia,serif" font-size="30" letter-spacing="7" text-anchor="middle">SCHOOL &amp; CLASSMATES</text>
+    <text x="400" y="804" fill="#C5A46D" font-family="Arial,sans-serif" font-size="14" letter-spacing="5" text-anchor="middle">IMAGE PLACEHOLDER</text>
+    <text x="400" y="838" fill="#EAE6DC" fill-opacity=".58" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" text-anchor="middle">REPLACE WITH YOUR PHOTOGRAPH</text>
+</svg>

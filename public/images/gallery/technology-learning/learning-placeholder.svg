@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" fill="none">
+    <defs>
+        <linearGradient id="learning-bg" x1="62" y1="50" x2="740" y2="920" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#24443A"/>
+            <stop offset="1" stop-color="#07110F"/>
+        </linearGradient>
+        <radialGradient id="learning-glow" cx="0" cy="0" r="1" gradientTransform="matrix(520 300 -300 520 230 280)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C5A46D" stop-opacity=".19"/>
+            <stop offset="1" stop-color="#C5A46D" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <title>Technology and learning photograph placeholder</title>
+    <rect width="800" height="960" fill="url(#learning-bg)"/>
+    <rect width="800" height="960" fill="url(#learning-glow)"/>
+    <rect x="34" y="34" width="732" height="892" rx="3" stroke="#EAE6DC" stroke-opacity=".22"/>
+    <path d="M400 190v170m-148-85h296M290 250l-92 92m312-92 92 92M290 280l-92-92m312 92 92-92M400 360v144m-105 0h210m-170 0v92m130-92v92" stroke="#C5A46D" stroke-opacity=".52" stroke-width="2"/>
+    <rect x="366" y="178" width="68" height="68" rx="4" stroke="#EAE6DC" stroke-opacity=".5"/>
+    <rect x="218" y="242" width="54" height="54" rx="4" stroke="#EAE6DC" stroke-opacity=".34"/>
+    <rect x="528" y="242" width="54" height="54" rx="4" stroke="#EAE6DC" stroke-opacity=".34"/>
+    <rect x="278" y="476" width="244" height="126" rx="4" stroke="#EAE6DC" stroke-opacity=".34"/>
+    <path d="M314 520h172M314 544h112" stroke="#C5A46D" stroke-opacity=".58"/>
+    <text x="400" y="744" fill="#EAE6DC" fill-opacity=".76" font-family="Georgia,serif" font-size="28" letter-spacing="5" text-anchor="middle">TECHNOLOGY &amp; LEARNING</text>
+    <text x="400" y="804" fill="#C5A46D" font-family="Arial,sans-serif" font-size="14" letter-spacing="5" text-anchor="middle">IMAGE PLACEHOLDER</text>
+    <text x="400" y="838" fill="#EAE6DC" fill-opacity=".58" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" text-anchor="middle">REPLACE WITH YOUR PHOTOGRAPH</text>
+</svg>

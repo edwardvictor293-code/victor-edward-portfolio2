@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 960" fill="none">
+    <defs>
+        <linearGradient id="friends-bg" x1="46" y1="70" x2="744" y2="910" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#24443A"/>
+            <stop offset="1" stop-color="#07110F"/>
+        </linearGradient>
+        <radialGradient id="friends-glow" cx="0" cy="0" r="1" gradientTransform="matrix(0 480 -420 0 400 366)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#C5A46D" stop-opacity=".2"/>
+            <stop offset="1" stop-color="#C5A46D" stop-opacity="0"/>
+        </radialGradient>
+    </defs>
+    <title>Friends and connections photograph placeholder</title>
+    <rect width="800" height="960" fill="url(#friends-bg)"/>
+    <rect width="800" height="960" fill="url(#friends-glow)"/>
+    <rect x="34" y="34" width="732" height="892" rx="3" stroke="#EAE6DC" stroke-opacity=".22"/>
+    <circle cx="400" cy="350" r="176" stroke="#C5A46D" stroke-opacity=".28"/>
+    <circle cx="326" cy="338" r="45" stroke="#EAE6DC" stroke-opacity=".48"/>
+    <circle cx="474" cy="338" r="45" stroke="#EAE6DC" stroke-opacity=".48"/>
+    <path d="M235 512c12-68 48-103 91-103 27 0 54 16 74 42 20-26 47-42 74-42 43 0 79 35 91 103" stroke="#EAE6DC" stroke-opacity=".42" stroke-width="2"/>
+    <path d="M110 686h580M110 702h212" stroke="#C5A46D" stroke-opacity=".4"/>
+    <text x="400" y="608" fill="#EAE6DC" fill-opacity=".76" font-family="Georgia,serif" font-size="30" letter-spacing="7" text-anchor="middle">FRIENDS &amp; CONNECTIONS</text>
+    <text x="400" y="770" fill="#C5A46D" font-family="Arial,sans-serif" font-size="14" letter-spacing="5" text-anchor="middle">IMAGE PLACEHOLDER</text>
+    <text x="400" y="804" fill="#EAE6DC" fill-opacity=".58" font-family="Arial,sans-serif" font-size="12" letter-spacing="3" text-anchor="middle">REPLACE WITH YOUR PHOTOGRAPH</text>
+</svg>
